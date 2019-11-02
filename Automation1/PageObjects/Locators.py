@@ -1,0 +1,21 @@
+# Login Page Elements
+txt_loginUserName = "name:userName"
+txt_loginPassword = "name:password"
+btn_signIn = "xpath://input[@name='login']"
+
+# Registration Page Elements
+Link_Reg = "link:REGISTER"
+txt_FirstName = "name:firstName"
+txt_LastName = "name:lastName"
+txt_Phone = "name:phone"
+txt_Email = "name:userName"
+txt_Address1 = "name:address1"
+txt_Address2 = "name:address2"
+txt_City = "name:city"
+txt_State_Province = "name:state"
+txt_PostalCode = "name:postalCode"
+txt_Country = "name:country"
+txt_UserName = "name:email"
+txt_Password = "name:password"
+txt_Confirm_Password = "name:confirmPassword"
+btn_Submit = "xpath://input[@name='register']"

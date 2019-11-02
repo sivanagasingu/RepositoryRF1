@@ -1,0 +1,17 @@
+==============================================================================
+Suites                                                                        
+==============================================================================
+Suites.LoginTest                                                              
+==============================================================================
+LoginTest                                                             | FAIL |
+Title should have been 'Find a Flight: Mercury Tours:' but was 'Welcome: Mercury Tours'.
+------------------------------------------------------------------------------
+Suites.LoginTest                                                      | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Suites                                                                | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Output:  F:\RobotFramework\Automation1\Results1\pabot_results\Suites.LoginTest\output.xml
